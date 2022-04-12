@@ -21,7 +21,7 @@ var appServicePlanName = 'toy-website'
 var applicationInsightsName = 'toywebsite'
 //Fix 2
 //var storageAccountName = 'mystorageresourceNameSuffix'
-var storageAccountName = 'mystorageresourcenamesuffix'
+var storageAccountName = 'storagesuffix'
 
 // Define the SKUs for each component based on the environment type.
 var environmentConfigurationMap = {
